@@ -1,0 +1,5 @@
+{
+  "name": "OncoLogic: Neuro-Symbolic Cancer Diagnostic System",
+  "description": "A sophisticated diagnostic assistant combining neural interpretation of clinical data with symbolic medical logic for cancer detection and staging.",
+  "requestFramePermissions": []
+}
